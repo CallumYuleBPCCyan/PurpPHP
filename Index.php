@@ -1,4 +1,5 @@
-<!Doctype html><html>    
+<!Doctype html>
+<html>    
     <body>        
         <?php        
         echo "First time trying PHP";        
